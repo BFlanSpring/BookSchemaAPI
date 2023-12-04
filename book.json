@@ -1,0 +1,11 @@
+{
+    "isbn": "1234567890",
+    "amazon_url": "https://www.amazon.com/example-book",
+    "author": "John Doe",
+    "language": "English",
+    "pages": 250,
+    "publisher": "Publisher Name",
+    "title": "Example Book",
+    "year": 2023
+  }
+  
